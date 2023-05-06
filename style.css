@@ -1,5 +1,5 @@
 header {
-    border: 0.2em solid #1771CF;
+    border-bottom: 0.2em solid #1771CF;
 }
 
 .header {
@@ -13,7 +13,14 @@ header {
 }
 
 h2 {
-    margin-left: 2%;
+    margin-left: 30%;
+    color: #1771CF;
+    font-weight: 500;
+}
+
+h3 {
+    color: #1771CF;
+    font-weight: 800;
 }
 
 section {
@@ -25,11 +32,22 @@ section {
 }
 
 #astro {
-    border: 0.2em solid #1771CF;
+    border: 0.2em solid #6AADF2;
+    background-color: #6AADF2;
     margin-right: 3%;
     padding-left: 0.5em;
     padding-top: 1em;
     padding-right: 1em;
+}
+
+.underline {
+    color: white;
+    text-decoration: underline;
+}
+
+.italic {
+    color: white;
+    font-style: italic;
 }
 
 .values {
