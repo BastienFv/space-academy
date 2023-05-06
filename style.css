@@ -1,0 +1,37 @@
+header {
+    border: 0.2em solid #1771CF;
+}
+
+.header {
+   display: flex;
+   align-items: center;
+}
+
+.logo {
+    max-width: 8%;
+    margin-left: 2%;
+}
+
+h2 {
+    margin-left: 2%;
+}
+
+section {
+    margin-left: 5%;
+}
+
+.container {
+    display: flex;
+}
+
+#astro {
+    border: 0.2em solid #1771CF;
+    margin-right: 3%;
+    padding-left: 0.5em;
+    padding-top: 1em;
+    padding-right: 1em;
+}
+
+.values {
+    margin-top: 3%;
+}
